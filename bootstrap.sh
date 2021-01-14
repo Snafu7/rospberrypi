@@ -100,7 +100,7 @@ sudo pip3 install numpy scipy tensorflow
 # All ROS Melodic Stretch Install Dependencies
 
 message "Installing ROS Melodic Desktop dependencies..."
-sudo apt install -y\
+sudo apt install -y \
 	python-opencv \
 	python-matplotlib \
 	python-sip-dev \
@@ -116,7 +116,7 @@ sudo apt install -y\
 	libgl1-mesa-dev \
 	libglu1-mesa-dev \
 	python-nose \
-	python-imaging \
+	python-pil \
 	libcurl4-openssl-dev \
 	curl \
 	libassimp-dev \
