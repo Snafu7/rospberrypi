@@ -88,10 +88,10 @@ sudo apt install -y \
 	gfortran \
 	python3-dev \
 	python3-pip \
-	libhdf5-100 \
+	libhdf5-103 \
 	libhdf5-serial-dev \
 	libhdf5-dev \
-	libhdf5-cpp-100 \
+	libhdf5-cpp-103 \
 	caffe-cpu
 
 message "pip3 install of tensorflow..."
